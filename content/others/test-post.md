@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "content test"
-canonicalURL: "http://silverxb.xyz/posts/test-post"
+canonicalURL: "http://silverxb.xyz/others/test-post"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -38,8 +38,4 @@ editPost:
 
 ## Introduction
 
-test test test 测试
-
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+This is the first post of my pages. It's used to testify the correctness of the page's file structure.

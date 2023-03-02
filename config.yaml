@@ -67,10 +67,12 @@ params:
     imageHeight: 120
     imageTitle: profile
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Technical
+        url: tech
+      - name: Life
+        url: life
+      - name: Others
+        url: others
 
   # home-info mode
   homeInfoParams:
@@ -117,9 +119,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Posts
-      name: Posts
-      url: /posts/
+    - identifier: tech
+      name: Technical
+      url: /tech/
       weight: 20
     - identifier: Contact me
       name: Contact me

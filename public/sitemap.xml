@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://silverxb.xyz/posts/</loc>
+    <loc>http://silverxb.xyz/others/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +18,27 @@
   </url>
   
   <url>
+    <loc>http://silverxb.xyz/tech/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://silverxb.xyz/tags/test/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://silverxb.xyz/posts/test-post/</loc>
+    <loc>http://silverxb.xyz/others/test-post/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tags/web/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tech/web-instruction/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url>
   

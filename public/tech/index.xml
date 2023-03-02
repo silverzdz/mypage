@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>silverxb&#39;s blog</title>
-    <link>http://silverxb.xyz/</link>
-    <description>Recent content on silverxb&#39;s blog</description>
+    <title>Teches on silverxb&#39;s blog</title>
+    <link>http://silverxb.xyz/tech/</link>
+    <description>Recent content in Teches on silverxb&#39;s blog</description>
     <image>
       <title>silverxb&#39;s blog</title>
       <url>http://silverxb.xyz/img/profile_photo.jpg</url>
       <link>http://silverxb.xyz/img/profile_photo.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://silverxb.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Post</title>
-      <link>http://silverxb.xyz/others/test-post/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://silverxb.xyz/others/test-post/</guid>
-      <description>content test</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://silverxb.xyz/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>网站搭建指南</title>
       <link>http://silverxb.xyz/tech/web-instruction/</link>
