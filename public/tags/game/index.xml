@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>game on silverxb&#39;s blog</title>
+    <link>http://silverxb.xyz/tags/game/</link>
+    <description>Recent content in game on silverxb&#39;s blog</description>
+    <image>
+      <title>silverxb&#39;s blog</title>
+      <url>http://silverxb.xyz/img/profile_photo.jpg</url>
+      <link>http://silverxb.xyz/img/profile_photo.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2023 15:41:55 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P5S 玩后感</title>
+      <link>http://silverxb.xyz/life/p5s/</link>
+      <pubDate>Thu, 02 Mar 2023 15:41:55 +0800</pubDate>
+      
+      <guid>http://silverxb.xyz/life/p5s/</guid>
+      <description>This article is a placeholder to test the correctness of the file structure.</description>
+    </item>
+    
+  </channel>
+</rss>

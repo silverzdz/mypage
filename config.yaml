@@ -14,6 +14,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: silverxb's blog
@@ -22,7 +28,7 @@ params:
   author: silverxb
   # author: ["Me", "You"] # multiple authors
   images: ["http://silverxb.xyz/img/profile_photo.jpg"]
-  DateFormat: "March 2, 2023"
+  DateFormat: "02 Jan 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -119,9 +125,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: tech
-      name: Technical
-      url: /tech/
+    - identifier: arch
+      name: Timeline
+      url: /archives/
       weight: 20
     - identifier: Contact me
       name: Contact me

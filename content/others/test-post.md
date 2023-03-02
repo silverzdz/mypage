@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
-date: 2023-03-02
+date: 2023-03-02T16:11:24+08:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["test"]
@@ -24,6 +24,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+ShowCodeCopyButtons: true
 cover:
     # image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

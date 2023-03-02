@@ -8,7 +8,7 @@ hugo
 ```
 
 ## 内容修改
-* 主页标题：`config.toml`
+* 主页标题：`config.yaml`
 * 内容：`content/`，注意删除drart项
 
 ## 主题

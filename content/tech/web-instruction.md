@@ -1,6 +1,6 @@
 ---
 title: "网站搭建指南"
-date: 2023-03-02
+date: 2023-03-01T15:42:55+08:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["web"]
@@ -44,7 +44,7 @@ hugo
 ```
 
 ## 内容修改
-* 主页标题：`config.toml`
+* 主页标题：`config.yaml`
 * 内容：`content/`，注意删除drart项
 
 ## 主题
@@ -101,6 +101,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+ShowCodeCopyButtons: true
 cover:
     # image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

@@ -10,24 +10,34 @@
       <link>http://silverxb.xyz/img/profile_photo.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://silverxb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 16:11:24 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
       <link>http://silverxb.xyz/others/test-post/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Mar 2023 16:11:24 +0800</pubDate>
       
       <guid>http://silverxb.xyz/others/test-post/</guid>
       <description>content test</description>
     </item>
     
     <item>
+      <title>P5S 玩后感</title>
+      <link>http://silverxb.xyz/life/p5s/</link>
+      <pubDate>Thu, 02 Mar 2023 15:41:55 +0800</pubDate>
+      
+      <guid>http://silverxb.xyz/life/p5s/</guid>
+      <description>This article is a placeholder to test the correctness of the file structure.</description>
+    </item>
+    
+    <item>
       <title>网站搭建指南</title>
       <link>http://silverxb.xyz/tech/web-instruction/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 15:42:55 +0800</pubDate>
       
       <guid>http://silverxb.xyz/tech/web-instruction/</guid>
       <description>搭建过程中的注意事项</description>
     </item>
+    
     
   </channel>
 </rss>
