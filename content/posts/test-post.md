@@ -9,7 +9,7 @@ lastmod: 2023-03-02
 
 ## Introduction
 
-test test test
+test test test 测试
 
 This is **bold** text, and this is *emphasized* text.
 

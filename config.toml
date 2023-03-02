@@ -1,4 +1,4 @@
 baseURL = "http://silverxb.xyz/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "silverxb's blog"
 theme = 'PaperMod'
