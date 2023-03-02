@@ -4,7 +4,11 @@
     <title>Categories on silverxb&#39;s blog</title>
     <link>http://silverxb.xyz/categories/</link>
     <description>Recent content in Categories on silverxb&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://silverxb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title>silverxb&#39;s blog</title>
+      <url>http://silverxb.xyz/img/profile_photo.jpg</url>
+      <link>http://silverxb.xyz/img/profile_photo.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://silverxb.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

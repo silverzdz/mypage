@@ -13,16 +13,22 @@
   </url>
   
   <url>
+    <loc>http://silverxb.xyz/tags/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tags/test/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://silverxb.xyz/posts/test-post/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://silverxb.xyz/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://silverxb.xyz/tags/</loc>
   </url>
   
 </urlset>

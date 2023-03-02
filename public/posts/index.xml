@@ -4,8 +4,12 @@
     <title>Posts on silverxb&#39;s blog</title>
     <link>http://silverxb.xyz/posts/</link>
     <description>Recent content in Posts on silverxb&#39;s blog</description>
+    <image>
+      <title>silverxb&#39;s blog</title>
+      <url>http://silverxb.xyz/img/profile_photo.jpg</url>
+      <link>http://silverxb.xyz/img/profile_photo.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://silverxb.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
@@ -13,7 +17,7 @@
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://silverxb.xyz/posts/test-post/</guid>
-      <description>test</description>
+      <description>content test</description>
     </item>
     
   </channel>
