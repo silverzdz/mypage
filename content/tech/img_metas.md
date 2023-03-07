@@ -3,7 +3,7 @@ title: "img_metas"
 date: 2023-03-07T14:37:09+08:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tech", "hdmap"]
+tags: ["hdmap"]
 author: "silverxb"
 # author: ["Me", "You"] # multiple authors
 showToc: true
