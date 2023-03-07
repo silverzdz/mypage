@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://silverxb.xyz/others/</loc>
-    <lastmod>2023-03-02T16:11:24+08:00</lastmod>
+    <loc>http://silverxb.xyz/tags/hdmap/</loc>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tech/img_metas/</loc>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://silverxb.xyz/</loc>
-    <lastmod>2023-03-02T16:11:24+08:00</lastmod>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://silverxb.xyz/tags/</loc>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tags/tech/</loc>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/tech/</loc>
+    <lastmod>2023-03-07T14:37:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silverxb.xyz/others/</loc>
     <lastmod>2023-03-02T16:11:24+08:00</lastmod>
   </url>
   
@@ -40,11 +60,6 @@
   <url>
     <loc>http://silverxb.xyz/life/p5s/</loc>
     <lastmod>2023-03-02T15:41:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://silverxb.xyz/tech/</loc>
-    <lastmod>2023-03-01T15:42:55+08:00</lastmod>
   </url>
   
   <url>

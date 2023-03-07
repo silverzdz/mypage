@@ -10,7 +10,25 @@
       <link>http://silverxb.xyz/img/profile_photo.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 16:11:24 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 14:37:09 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hdmap</title>
+      <link>http://silverxb.xyz/tags/hdmap/</link>
+      <pubDate>Tue, 07 Mar 2023 14:37:09 +0800</pubDate>
+      
+      <guid>http://silverxb.xyz/tags/hdmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://silverxb.xyz/tags/tech/</link>
+      <pubDate>Tue, 07 Mar 2023 14:37:09 +0800</pubDate>
+      
+      <guid>http://silverxb.xyz/tags/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test</title>
       <link>http://silverxb.xyz/tags/test/</link>

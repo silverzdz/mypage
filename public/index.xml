@@ -10,7 +10,16 @@
       <link>http://silverxb.xyz/img/profile_photo.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Mar 2023 16:11:24 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 14:37:09 +0800</lastBuildDate><atom:link href="http://silverxb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>img_metas</title>
+      <link>http://silverxb.xyz/tech/img_metas/</link>
+      <pubDate>Tue, 07 Mar 2023 14:37:09 +0800</pubDate>
+      
+      <guid>http://silverxb.xyz/tech/img_metas/</guid>
+      <description>nuScenes data&amp;#39;s img_metas for MapTR inference</description>
+    </item>
+    
     <item>
       <title>Test Post</title>
       <link>http://silverxb.xyz/others/test-post/</link>
